@@ -1,0 +1,17 @@
+chosen dehazing methods
+
+Dark channel prior, becasue it is the mother and father of many other methods especially non deep learning ones
+
+zero-dce - mostly becasue it doesnt require any specific pretraining which is the main issue
+
+Vision Transformers for Single Image Dehazing - a transformer based approach. interest9ing becasue if this performs best it insinuates that transfoprmwers are sort of unavoidable for pertformance
+
+FFA-net -  its used extensively by many many people as a benchmark so useful as a baseline comparison since it already exists and is widely accepted
+
+MVG-FD - cutting edge and uses a lot of different variables so useful as a "top end model"
+
+
+
+
+
+

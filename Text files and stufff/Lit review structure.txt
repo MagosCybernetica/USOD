@@ -1,0 +1,15 @@
+
+
+Underwater imaging Physics
+https://ieeexplore.ieee.org/document/8578801 - only use it to show that i didnt imagine images getting worse underwater
+
+Traditional/physics based enchancement methods
+https://ieeexplore.ieee.org/document/11083989 - focuses on speed and designed fro real time use - good to compare performance cost
+
+https://ieeexplore.ieee.org/document/10980214 - they propose an entire model, but the first part is about the enchancement layer so might use just that - physics inspired so potentially another good comparator
+
+https://ieeexplore.ieee.org/document/8058463#citations - older paper that is reference a lot- used in a paper form this year as well - single image enchancement using color balance andd white balance
+
+https://ieeexplore.ieee.org/document/7365412 - general review for DEFOGGING - not directly related -- could be used to save time in finding other topics
+
+https://ieeexplore.ieee.org/document/7539399 - true dehazing- mioght not be what i actually need - need to check if itas for the right kind of thing
